@@ -1,0 +1,27 @@
+/*
+Theme Name: SAMURAI UNIVERSITY
+Theme URI: https://www.sejuku.net/
+Description: SAMURAI ENGINEERのWordPress教材
+Version: 1.0.0
+Author: SAMURAI ENGINEER
+Author URI: https://www.sejuku.net/
+*/
+
+/* 詳細を見るボタン用 */
+.btn-detail {
+  display: inline-block;
+  background: #2b7b8e;
+  color: #fff !important;
+  padding: 8px 24px;
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background 0.2s;
+  margin-top: 10px;
+}
+.btn-detail:hover {
+  background: #22606e;
+  color: #fff !important;
+  text-decoration: none;
+}
